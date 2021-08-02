@@ -4,15 +4,6 @@ You can [check them out](https://headers-css.vercel.app/) here.
 
 [Read about building headers with flexbox](https://ishadeed.com/article/website-headers-flexbox/) on my blog.
 
-![](header-css.jpg)
-
-While working on them, I tried to focus on the following:
-
-- Simplicity
-- Fully responsive design
-- Used Sass so they can be easily edited (Still need to do some refactoring here and there)
-- Accessibility (Please open an issue if you spot something incorrectly)
-
 ## How To Use
 
 I didn't build this project with a "smart" way to get the files. For now, you can get the HTML, Sass, and Javascript related for the header you want to check. I will try to enhance this.
