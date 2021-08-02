@@ -1,8 +1,5 @@
 # responsive-header
 responsive header using css html
-You can [check them out](https://headers-css.vercel.app/) here.
-
-[Read about building headers with flexbox](https://ishadeed.com/article/website-headers-flexbox/) on my blog.
 
 ## How To Use
 
